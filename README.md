@@ -1,4 +1,4 @@
-### Hi there 👋
+### UwU 👋
 
 <!--
 **Kini1305/Kini1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://discord.com/channels/@me
+Connect with my discord
+https://discord.com/users/334669460331823114
